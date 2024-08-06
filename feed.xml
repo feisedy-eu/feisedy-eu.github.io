@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>FEISEDY</title>
+    <link href="https://feisedy-eu.github.io/feed.xml" rel="self" />
+    <link href="https://feisedy-eu.github.io" />
+    <updated>2024-08-06T20:02:05+08:00</updated>
+    <author>
+        <name>feisedy</name>
+    </author>
+    <id>https://feisedy-eu.github.io</id>
+
+    <entry>
+        <title>Test 2</title>
+        <author>
+            <name>feisedy</name>
+        </author>
+        <link href="https://feisedy-eu.github.io/test-2.html"/>
+        <id>https://feisedy-eu.github.io/test-2.html</id>
+
+        <updated>2024-08-06T18:49:32+08:00</updated>
+            <summary>
+                <![CDATA[
+                    FEISEDY B2837 Declaration of Conformity DE：FEISEDY B2837 Declaration of Conformity
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://feisedy-eu.github.io/media/posts/2/Rainbow-mirror-01.jpg" alt="" width="139" height="139" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://feisedy-eu.github.io/media/posts/2/responsive/Rainbow-mirror-01-xs.jpg 320w ,https://feisedy-eu.github.io/media/posts/2/responsive/Rainbow-mirror-01-sm.jpg 480w ,https://feisedy-eu.github.io/media/posts/2/responsive/Rainbow-mirror-01-md.jpg 768w ,https://feisedy-eu.github.io/media/posts/2/responsive/Rainbow-mirror-01-xl.jpg 1024w"></figure>
+<h1>FEISEDY B2837 Declaration of Conformity</h1>
+<p>DE：<a href="https://feisedy-eu.github.io/EU declaration of conformity-en.pdf">FEISEDY B2837 Declaration of Conformity</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>feisedy</name>
+        </author>
+        <link href="https://feisedy-eu.github.io/test.html"/>
+        <id>https://feisedy-eu.github.io/test.html</id>
+
+        <updated>2024-08-06T16:43:01+08:00</updated>
+            <summary>
+                <![CDATA[
+                    FEISEDY B2388 Declaration of Conformity DE: doc IT: FR: ES:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://feisedy-eu.github.io/media/posts/1/B2388.jpg" alt="" width="193" height="193" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://feisedy-eu.github.io/media/posts/1/responsive/B2388-xs.jpg 320w ,https://feisedy-eu.github.io/media/posts/1/responsive/B2388-sm.jpg 480w ,https://feisedy-eu.github.io/media/posts/1/responsive/B2388-md.jpg 768w ,https://feisedy-eu.github.io/media/posts/1/responsive/B2388-xl.jpg 1024w"></figure>
+<h1>FEISEDY B2388 Declaration of Conformity</h1>
+<p>DE: <a href="https://feisedy-eu.github.io/EU declaration of conformity-en.pdf">doc</a></p>
+<p>IT:</p>
+<p>FR:</p>
+<p>ES:</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
