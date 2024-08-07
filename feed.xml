@@ -3,37 +3,49 @@
     <title>FEISEDY</title>
     <link href="https://feisedy-eu.github.io/feed.xml" rel="self" />
     <link href="https://feisedy-eu.github.io" />
-    <updated>2024-08-06T20:02:05+08:00</updated>
+    <updated>2024-08-07T18:23:30+08:00</updated>
     <author>
         <name>feisedy</name>
     </author>
     <id>https://feisedy-eu.github.io</id>
 
     <entry>
-        <title>Test 2</title>
+        <title>Kid&#x27;s Sunglasses Series</title>
+        <author>
+            <name>feisedy</name>
+        </author>
+        <link href="https://feisedy-eu.github.io/kids-sunglasses-series.html"/>
+        <id>https://feisedy-eu.github.io/kids-sunglasses-series.html</id>
+
+        <updated>2024-08-07T11:38:43+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Sports Sunglasses Series</title>
         <author>
             <name>feisedy</name>
         </author>
         <link href="https://feisedy-eu.github.io/test-2.html"/>
         <id>https://feisedy-eu.github.io/test-2.html</id>
 
-        <updated>2024-08-06T20:02:05+08:00</updated>
+        <updated>2024-08-07T18:23:30+08:00</updated>
             <summary>
                 <![CDATA[
-                    FEISEDY B2837 Declaration of Conformity DE：FEISEDY B2837 Declaration of Conformity
+                    FEISEDY B2837 FEISEDY B2388
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Test</title>
+        <title>Fashion Sunglasses Series</title>
         <author>
             <name>feisedy</name>
         </author>
         <link href="https://feisedy-eu.github.io/test.html"/>
         <id>https://feisedy-eu.github.io/test.html</id>
 
-        <updated>2024-08-06T18:21:24+08:00</updated>
+        <updated>2024-08-07T11:38:30+08:00</updated>
             <summary>
                 <![CDATA[
                     FEISEDY B2388 Declaration of Conformity DE: doc IT: FR: ES:

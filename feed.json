@@ -11,22 +11,34 @@
     },
     "items": [
         {
+            "id": "https://feisedy-eu.github.io/kids-sunglasses-series.html",
+            "url": "https://feisedy-eu.github.io/kids-sunglasses-series.html",
+            "title": "Kid&#x27;s Sunglasses Series",
+            "author": {
+                "name": "feisedy"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-07T11:38:43+08:00",
+            "date_modified": "2024-08-07T11:38:43+08:00"
+        },
+        {
             "id": "https://feisedy-eu.github.io/test-2.html",
             "url": "https://feisedy-eu.github.io/test-2.html",
-            "title": "Test 2",
-            "summary": "FEISEDY B2837 Declaration of Conformity DE：FEISEDY B2837 Declaration of Conformity",
+            "title": "Sports Sunglasses Series",
+            "summary": "FEISEDY B2837 FEISEDY B2388",
             "author": {
                 "name": "feisedy"
             },
             "tags": [
             ],
             "date_published": "2024-08-06T18:49:32+08:00",
-            "date_modified": "2024-08-06T20:02:05+08:00"
+            "date_modified": "2024-08-07T18:23:30+08:00"
         },
         {
             "id": "https://feisedy-eu.github.io/test.html",
             "url": "https://feisedy-eu.github.io/test.html",
-            "title": "Test",
+            "title": "Fashion Sunglasses Series",
             "summary": "FEISEDY B2388 Declaration of Conformity DE: doc IT: FR: ES:",
             "author": {
                 "name": "feisedy"
@@ -34,7 +46,7 @@
             "tags": [
             ],
             "date_published": "2024-08-06T16:43:01+08:00",
-            "date_modified": "2024-08-06T18:21:24+08:00"
+            "date_modified": "2024-08-07T11:38:30+08:00"
         }
     ]
 }
