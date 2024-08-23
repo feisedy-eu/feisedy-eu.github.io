@@ -3,7 +3,7 @@
     <title>FEISEDY</title>
     <link href="https://feisedy-eu.github.io/feed.xml" rel="self" />
     <link href="https://feisedy-eu.github.io" />
-    <updated>2024-08-23T13:48:09+08:00</updated>
+    <updated>2024-08-23T15:08:51+08:00</updated>
     <author>
         <name>FEISEDY</name>
     </author>
@@ -59,6 +59,24 @@
                 <![CDATA[
                         <img src="https://feisedy-eu.github.io/media/posts/3/kids-8223963-2.jpg" alt="" />
                     B0032 B0045 B0048 B0053 B0060 B0093 B0152 B0183 B0190 B2315 B2319 B2454&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About FEISEDY</title>
+        <author>
+            <name>FEISEDY</name>
+        </author>
+        <link href="https://feisedy-eu.github.io/about-feisedy.html"/>
+        <id>https://feisedy-eu.github.io/about-feisedy.html</id>
+        <media:content url="https://feisedy-eu.github.io/media/posts/4/about-feisedy.jpg" medium="image" />
+
+        <updated>2024-08-23T15:08:51+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://feisedy-eu.github.io/media/posts/4/about-feisedy.jpg" alt="" />
+                    The tiger totem derived from the mountain guardian deity in Asian traditional&hellip;
                 ]]>
             </summary>
         <content></content>
