@@ -3,7 +3,7 @@
     <title>FEISEDY</title>
     <link href="https://feisedy-eu.github.io/feed.xml" rel="self" />
     <link href="https://feisedy-eu.github.io" />
-    <updated>2025-08-05T16:39:46+08:00</updated>
+    <updated>2026-08-18T15:19:43+08:00</updated>
     <author>
         <name>FEISEDY</name>
     </author>
@@ -18,8 +18,8 @@
         <id>https://feisedy-eu.github.io/blue-light-glasses-series.html</id>
         <media:content url="https://feisedy-eu.github.io/media/posts/5/IMG_0212.jpg" medium="image" />
 
-        <updated>2025-05-13T16:16:31+08:00</updated>
-            <summary>
+        <updated>2026-08-18T14:58:34+08:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://feisedy-eu.github.io/media/posts/5/IMG_0212.jpg" alt="" />
                     B0005 B0037 B0039 B0062 B0068 B0071 B0101 B0141 B0156 B0209 B0229 B0232&hellip;
@@ -36,8 +36,8 @@
         <id>https://feisedy-eu.github.io/sports-sunglasses-series.html</id>
         <media:content url="https://feisedy-eu.github.io/media/posts/2/sport-17363461-2.jpg" medium="image" />
 
-        <updated>2025-08-05T16:39:46+08:00</updated>
-            <summary>
+        <updated>2026-08-18T15:02:04+08:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://feisedy-eu.github.io/media/posts/2/sport-17363461-2.jpg" alt="" />
                     B0004 B0022 B0027 B0056 B0061 B0133 B0177 B0213 B1125 B2342 B2372 B2388&hellip;
@@ -55,7 +55,7 @@
         <media:content url="https://feisedy-eu.github.io/media/posts/3/kids-8223963-2.jpg" medium="image" />
 
         <updated>2025-08-05T16:39:29+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://feisedy-eu.github.io/media/posts/3/kids-8223963-2.jpg" alt="" />
                     B0032 B0045 B0048 B0053 B0060 B0093 B0152 B0183 B0188 B0190 B0220 B2315&hellip;
@@ -72,8 +72,8 @@
         <id>https://feisedy-eu.github.io/test.html</id>
         <media:content url="https://feisedy-eu.github.io/media/posts/1/fashion-8158625-2.jpg" medium="image" />
 
-        <updated>2025-08-05T16:39:13+08:00</updated>
-            <summary>
+        <updated>2026-08-18T15:19:43+08:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://feisedy-eu.github.io/media/posts/1/fashion-8158625-2.jpg" alt="" />
                     B0002 B0003 B0009 B0010 B0017 B0035 B0036 B0057 B0078 B0114 B0124 B0137&hellip;
@@ -91,7 +91,7 @@
         <media:content url="https://feisedy-eu.github.io/media/posts/4/about-feisedy.jpg" medium="image" />
 
         <updated>2024-08-23T15:08:51+08:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://feisedy-eu.github.io/media/posts/4/about-feisedy.jpg" alt="" />
                     The tiger totem derived from the mountain guardian deity in Asian traditional&hellip;
